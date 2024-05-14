@@ -34,7 +34,7 @@ def load_version():
            data = json.load(file)
            return data['version']
    except (FileNotFoundError, json.JSONDecodeError):
-       return "1.96"  # Default version if file does not exist or is invalid
+       return "0.01"  # Default version if file does not exist or is invalid
 # Function to copy the command to clipboard
 # Function to load hidden imports from a JSON file
 def load_hidden_imports():
