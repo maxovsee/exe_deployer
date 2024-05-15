@@ -4,4 +4,4 @@ A PyInstaller-based EXE deployer that enables you to quickly and permanently add
 2. or simply press the Enter button while in the **add/delete a hook entry** or the **version spinbox** to initiate the deployment of the currently selected version.
 ![image](https://github.com/maxovsee/exe_deployer/assets/80675065/cbb6d714-60b5-4c07-85c1-449cdfc6e13c)
 3. Click on the 'Run CMD' button to open the command line, which is already navigated (cd) to the parent directory (the directory where the `change_version.py` script is located).
-5. 
+
